@@ -5,8 +5,8 @@ export default function Project(props) {
 
     return(
         <div>
-            {props.src}
-            Project
+            <a href={props.src}><img src={props.picPath}></img></a>
+            <a href={props.src}>{props.projName}</a>
         </div>
     );
 }
