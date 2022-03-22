@@ -43,6 +43,13 @@ p {
   margin: 10px 35px;
 }
 
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);

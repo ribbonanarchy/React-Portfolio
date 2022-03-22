@@ -23,16 +23,21 @@ function App() {
       <div id="MyWork">
         <h2>My Work</h2>
         <Project 
+          className="ProjectClass"
           src="https://ribbonanarchy.github.io/PokemonVsNature/" 
           projName="Pokemon Vs. Nature"
           picPath={PokemonPic}
         />
+        <br />
         <Project 
+          className="ProjectClass"
           src="https://take-me-to-your-leader.herokuapp.com/login" 
           projName="Take Me To Your Leader"
           picPath={AlienPic}
         />
+        <br />
         <Project 
+          className="ProjectClass"
           src="https://mern-curiosity-cabinet.herokuapp.com/" 
           projName="Curiosity Cabinet"
           picPath={CabinetPic}
