@@ -33,7 +33,7 @@
   justify-content: center;
 }
 
-.Header .Navigation {
+.Header .navigationBar {
   display: flex;
   gap: 20px;
   justify-self: right;

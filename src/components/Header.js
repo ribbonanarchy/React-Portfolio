@@ -6,7 +6,7 @@ export default function Header() {
 
     return(
         <div>
-            <Navigation />
+            {/* <Navigation className="navigationBar" /> */}
             <h1>Robyn Arnecke</h1>
         </div>
     );
