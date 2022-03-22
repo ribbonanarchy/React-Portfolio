@@ -4,8 +4,11 @@ export default function Navigation() {
 
 
     return(
-        <div>
-            Navigation
-        </div>
+        <nav className="Navigation">
+            <a>About Me</a>
+            <a>My Work</a>
+            <a>Contact Me</a>
+            <a>Resume</a>
+        </nav>
     );
 }
