@@ -64,3 +64,14 @@ img {
     transform: rotate(360deg);
   }
 }
+
+.smallIcon {
+  width: 40px;
+  display: inline;
+}
+
+.profilePic {
+  width: 240px;
+  margin-left: auto;
+  margin-right: auto; 
+}
