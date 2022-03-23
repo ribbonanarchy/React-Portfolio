@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/React-Portfolio-Arnecke/static/css/main.02c24125.css",
-    "main.js": "/React-Portfolio-Arnecke/static/js/main.eda131ac.js",
+    "main.css": "/React-Portfolio-Arnecke/static/css/main.a4c37773.css",
+    "main.js": "/React-Portfolio-Arnecke/static/js/main.cf9ecf77.js",
     "static/js/787.a2cb61a6.chunk.js": "/React-Portfolio-Arnecke/static/js/787.a2cb61a6.chunk.js",
     "static/media/CabinetScreenshot.PNG": "/React-Portfolio-Arnecke/static/media/CabinetScreenshot.7aaa88a396480dc58bf0.PNG",
     "static/media/PokemonScreenshot.PNG": "/React-Portfolio-Arnecke/static/media/PokemonScreenshot.4ec9dc6517f6c0b89bde.PNG",
     "static/media/AlienScreenshot.PNG": "/React-Portfolio-Arnecke/static/media/AlienScreenshot.1f1f977a42fc4c45424f.PNG",
     "index.html": "/React-Portfolio-Arnecke/index.html",
-    "main.02c24125.css.map": "/React-Portfolio-Arnecke/static/css/main.02c24125.css.map",
-    "main.eda131ac.js.map": "/React-Portfolio-Arnecke/static/js/main.eda131ac.js.map",
+    "main.a4c37773.css.map": "/React-Portfolio-Arnecke/static/css/main.a4c37773.css.map",
+    "main.cf9ecf77.js.map": "/React-Portfolio-Arnecke/static/js/main.cf9ecf77.js.map",
     "787.a2cb61a6.chunk.js.map": "/React-Portfolio-Arnecke/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.02c24125.css",
-    "static/js/main.eda131ac.js"
+    "static/css/main.a4c37773.css",
+    "static/js/main.cf9ecf77.js"
   ]
 }
