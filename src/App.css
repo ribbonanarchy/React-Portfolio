@@ -33,10 +33,10 @@
   justify-content: center;
 }
 
-.Header .navigationBar {
+ul {
   display: flex;
   gap: 20px;
-  justify-self: right;
+  justify-content: center;
 }
 
 p {

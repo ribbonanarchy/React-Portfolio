@@ -13,6 +13,7 @@ export default function About() {
           src="https://ribbonanarchy.github.io/PokemonVsNature/" 
           projName="Pokemon Vs. Nature"
           picPath={PokemonPic}
+          repo="https://github.com/ribbonanarchy/PokemonVsNature"
         />
         <br />
         <Project 
@@ -20,6 +21,7 @@ export default function About() {
           src="https://take-me-to-your-leader.herokuapp.com/login" 
           projName="Take Me To Your Leader"
           picPath={AlienPic}
+          repo="https://github.com/ribbonanarchy/TakeMeToYourLeader"
         />
         <br />
         <Project 
@@ -27,6 +29,7 @@ export default function About() {
           src="https://mern-curiosity-cabinet.herokuapp.com/" 
           projName="Curiosity Cabinet"
           picPath={CabinetPic}
+          repo="https://github.com/rkingjr/MERNcuriosityCabinet"
         />
       </div>
   );
